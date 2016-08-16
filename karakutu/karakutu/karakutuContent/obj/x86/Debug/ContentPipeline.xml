@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>kutumuz.jpg</Source>
+      <Name>kutumuz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\kutumuz.xnb</Output>
+      <Time>2015-06-23T10:34:01.2591743+03:00</Time>
+    </Item>
+    <Item>
+      <Source>geçilenyer.jpg</Source>
+      <Name>geçilenyer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\geçilenyer.xnb</Output>
+      <Time>2015-06-23T12:53:48.2960023+03:00</Time>
+    </Item>
+    <Item>
+      <Source>engel.jpg</Source>
+      <Name>engel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\engel.xnb</Output>
+      <Time>2015-06-23T12:53:38.1329857+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-06-23T18:06:14.2293995+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ibos2.wav</Source>
+      <Name>ibos2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\ibos2.xnb</Output>
+      <Time>2015-06-23T17:20:33.0606137+03:00</Time>
+    </Item>
+    <Item>
+      <Source>alkis.wav</Source>
+      <Name>alkis</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\alkis.xnb</Output>
+      <Time>2015-06-24T12:57:54.54138+03:00</Time>
+    </Item>
+    <Item>
+      <Source>arkaplan.jpg</Source>
+      <Name>arkaplan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\arkaplan.xnb</Output>
+      <Time>2015-06-24T13:23:27.4002295+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2015-06-24T13:43:15.597965+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutuContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutuContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-06-22T21:24:14.13898+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

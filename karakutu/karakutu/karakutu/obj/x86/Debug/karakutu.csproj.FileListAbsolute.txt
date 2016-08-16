@@ -1,0 +1,36 @@
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\kutumuz.xnb
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\geçilenyer.xnb
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\engel.xnb
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\karakutu.exe
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\karakutu.pdb
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.exe
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.pdb
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.Form1.resources
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.Form2.resources
+C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\ibos2.xnb
+C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\alkis.xnb
+C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\arkaplan.xnb
+C:\Users\Kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutu\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\kutumuz.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\engel.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\geçilenyer.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\arkaplan.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\ibos2.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\alkis.xnb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\karakutu.exe
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\karakutu.pdb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.csprojResolveAssemblyReference.cache
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.Form1.resources
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.Form2.resources
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.csproj.GenerateResource.Cache
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.exe
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\obj\x86\Debug\karakutu.pdb
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutu\bin\x86\Debug\Content\SpriteFont3.xnb

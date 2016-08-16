@@ -1,0 +1,2 @@
+c:\users\kara\documents\visual studio 2010\Projects\karakutu\karakutu\karakutuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\swatwady\Downloads\karakutu\karakutu\karakutu\karakutuContent\obj\x86\Debug\karakutuContent.contentprojResolveAssemblyReference.cache
